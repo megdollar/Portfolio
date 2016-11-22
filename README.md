@@ -4,7 +4,7 @@ This is a project I created as a part of Udacity's Front End Web Developer nanod
 
 ##Getting Started
 
-Click on [Megan's portfolio](http://megdollar.github.io/porfolio) to view the page.
+Click on [Megan's portfolio](http://megdollar.github.io/portfolio) to view the page.
 
 ##Built With
 
