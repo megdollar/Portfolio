@@ -8,8 +8,8 @@ Click on [Megan's portfolio](http://megdollar.github.io/portfolio) to view the p
 
 ## Built With
 
-HTML
-CSS
+- HTML
+- CSS
 
 ## Authors
 
